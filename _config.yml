@@ -82,7 +82,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://github.com/Harindulk/harindulk.github.io/blob/Harindulk/assets/img/harindu.jpg?raw=true
 
 # boolean type, the global switch for ToC in posts.
 toc: true
