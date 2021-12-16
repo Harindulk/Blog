@@ -20,11 +20,11 @@
 #   type: mastodon
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
 #   url:  ''                  # Fill with your mastodon account page
- -
-   type: linkedin
-   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-   url:  'https://www.linkedin.com/in/harindulk/'                  # Fill with your Linkedin homepage
- -
+# -
+#   type: linkedin
+#   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
+#   url:  'https://www.linkedin.com/in/harindulk/'                  # Fill with your Linkedin homepage
+# -
 #   type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
 #   url:  ''                  # Fill with your stackoverflow homepage
